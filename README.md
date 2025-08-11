@@ -53,9 +53,7 @@ class Developer {
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### **State Management & Architecture**
-![Bloc](https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-9146FF?style=for-the-badge&logo=flutter&logoColor=white)
+![Bloc / Cubit](https://img.shields.io/badge/Bloc%20%26%20Cubit-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### **Tools & Platforms**
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
