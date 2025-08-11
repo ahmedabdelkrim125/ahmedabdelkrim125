@@ -22,7 +22,7 @@
 class Developer {
   final String name = "Ahmed Abdelkarim";
   final String role = "Flutter Developer";
-  final List<String> languages = ["Dart", "JavaScript", "Python"];
+  final List<String> languages = ["Dart", , "C++"];
   final List<String> specialties = [
     "📱 Cross-Platform Mobile Development",
     "🔥 Firebase Integration", 
