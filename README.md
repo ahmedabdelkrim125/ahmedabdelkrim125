@@ -97,28 +97,9 @@ class Developer {
 
 ---
 
-## 🚀 **المشاريع المميزة**
 
-<div align="center">
 
-<!-- Project Cards -->
-<a href="https://github.com/ahmedabdelkrim125/ecommerce-flutter-app">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedabdelkrim125&repo=ecommerce-flutter-app&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
 
-<a href="https://github.com/ahmedabdelkrim125/weather-flutter-app">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedabdelkrim125&repo=weather-flutter-app&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/ahmedabdelkrim125/task-manager-flutter">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedabdelkrim125&repo=task-manager-flutter&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
-
-<a href="https://github.com/ahmedabdelkrim125/chat-app-flutter">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedabdelkrim125&repo=chat-app-flutter&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" />
-</a>
-
-</div>
 
 ---
 
