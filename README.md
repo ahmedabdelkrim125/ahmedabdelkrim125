@@ -50,8 +50,7 @@ class Developer {
 
 ### **Backend & Database**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### **State Management & Architecture**
 ![Bloc](https://img.shields.io/badge/Bloc-0175C2?style=for-the-badge&logo=flutter&logoColor=white)
